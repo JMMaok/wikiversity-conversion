@@ -1,0 +1,30 @@
+{Question 1 Choose the best answer.
+|type="()"}
+-Choice 1
+||Try again. Feedback 1.
+-Choice 2
+||Try again. Feedback 2.
+-Choice 3
+||Try again. Feedback 3.
++Choice 4
+||Correct! Feedback 4.
+{Second Question Choose the best answer.
+|type="()"}
+-Choice 1
+||Try again. Feedback 1.
+-Choice 2
+||Try again. Feedback 2.
+-Choice 3
+||Try again. Feedback 3.
++Choice 4
+||Correct! Feedback 4.
+{Question three Choose the best answer.
+|type="()"}
+-Choice 1
+||Try again. Feedback 1.
+-Choice 2
+||Try again. Feedback 2.
+-Choice 3
+||Try again. Feedback 3.
++Choice 4
+||Correct! Feedback 4.
